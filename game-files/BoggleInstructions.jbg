@@ -1,0 +1,9 @@
+File Extension '.jbg' is copyrighted by Java Boggle Inc.
+List as many words that contain three letters or more by using 
+the assorted letters found in the 4x4 cube grid within 3 minutes.
+Words can only be formed from adjoining letters which means that 
+they will join either vertically, horizontally or diagonally. 
+Additionally, no single letter cube can be used more than once 
+to make a word. Good Luck!
+Scores will be totalled depending on how many correct words are
+made and their corresponding number of letters.
