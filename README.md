@@ -6,5 +6,5 @@ Boggle is a game in which you list as many words that contain three letters or m
 ##Features
 * Splashscreen
 * Highscores recorded
-* Countdown Timer
-* Embedded Dictionary
+* Countdown timer
+* Embedded dictionary
