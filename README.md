@@ -7,4 +7,4 @@ Boggle is a game in which the player lists as many words that contain three lett
 * Splashscreen
 * Highscores recorded
 * Countdown timer
-* Embedded dictionary
+* Full dictionary
